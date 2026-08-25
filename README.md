@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Adielio 👋
 
-<!--
-**learnwithadielio/learnwithadielio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student and aspiring Full-Stack Developer currently learning and improving my skills in web development.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Student majoring in Computer and Network Engineering
+- 💻 Interested in Full-Stack Development
+- 🧩 Currently learning React, JavaScript, and modern web development
+- 🛠️ Familiar with Git, GitHub, and GitLab
+- 🌱 Continuing to improve my programming and problem-solving skills
+- 🤖 Interested in Artificial Intelligence and software development
+
+## 🧰 Tech I'm Learning & Using
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Git
+- GitHub
+- GitLab
+
+## 📚 Also Learning
+
+- Computer Networking
+- Linux
+- Cisco
+- Troubleshooting
+- Network Configuration
+
+## 🎯 Current Goal
+
+My current goal is to keep improving as a developer, build personal projects, gain more real-world experience, and grow toward becoming a Full-Stack Developer.
+
+## 🤝 Connect With Me
+
+Feel free to connect with me on LinkedIn or explore my repositories as I continue building and learning.
