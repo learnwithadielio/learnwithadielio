@@ -50,12 +50,6 @@ I'm currently focused on:
 - Gaining more real-world development experience
 - Growing toward becoming a Full-Stack Developer
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=learnwithadielio&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=learnwithadielio&layout=compact&hide_border=true)
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/adieliogemtaleoboyller)
